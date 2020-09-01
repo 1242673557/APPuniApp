@@ -233,6 +233,7 @@
 				uni.navigateTo({
 					url:'../classify/classify'
 				})
+				console.log("githup测试新增数据")
 			},
 			// 立即抢购(跳转传商品id)
 			goRob(e){
